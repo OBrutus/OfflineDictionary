@@ -1,5 +1,5 @@
 mkdir -p $HOME/.Dictionary_AV
-cp data-orignal.json $HOME/.Dictionary_AV/data.json
+cp data.json $HOME/.Dictionary_AV/data.json
 cp random-picker.py $HOME/.Dictionary_AV/
 
 echo "Want just a sudo password for installing dependencies ... "
